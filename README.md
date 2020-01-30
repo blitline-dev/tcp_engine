@@ -1,18 +1,20 @@
 # tcp_engine
 
-TODO: Write a description here
+Example project to demonstate a general purpose TCP connection.
 
 ## Installation
 
-TODO: Write installation instructions here
+Run 'crystal tcp_engine.cr to start'
+
+-- The benchmark.cr can then be run to test local speeds --
 
 ## Usage
 
-TODO: Write usage instructions here
+Use this as a starting point for building a TCP based service
 
 ## Development
 
-TODO: Write development instructions here
+Any questions or comments you can contact me at jason@blitline.com
 
 ## Contributing
 
