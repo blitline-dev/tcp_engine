@@ -1,0 +1,13 @@
+name: tcp_engine
+version: 0.1.0
+
+authors:
+  - Jason <jaciones@gmail.com>
+
+targets:
+  tcp_engine:
+    main: src/tcp_engine.cr
+
+crystal: 0.31.1
+
+license: MIT
