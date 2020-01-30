@@ -16,14 +16,6 @@ Use this as a starting point for building a TCP based service
 
 Any questions or comments you can contact me at jason@blitline.com
 
-## Contributing
-
-1. Fork it (<https://github.com/your-github-user/tcp_engine/fork>)
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
-
 ## Contributors
 
-- [Jason](https://github.com/your-github-user) - creator and maintainer
+- [Jason](https://github.com/jmalcolm) - creator and maintainer
