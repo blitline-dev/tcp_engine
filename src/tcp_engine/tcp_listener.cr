@@ -8,7 +8,7 @@ require "./action"
 # of 200 fibers ready to process incoming data
 #
 # There are numerous caveats and tweaks you
-# can do to optmize for your situation, where
+# can do to optimize for your situation, where
 # this example tries to meet a 'happy medium'
 # between short lived TCP connections and large
 # data bursts over a TCP socket.
@@ -133,7 +133,7 @@ class TcpListener
   end
 
   # ------------------------------------
-  # Convernience method to turn on DEBUG
+  # Convenience method to turn on DEBUG
   # with a USR1 signal
   # ------------------------------------
   def set_trap
